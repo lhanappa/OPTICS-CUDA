@@ -9,7 +9,7 @@ Traj-OPTICS is research software. If you make use of Traj-OPTICS in scientific p
 
   title={A scalable and fast OPTICS for clustering trajectory big data}, 
   
-  author={Deng, Ze and {\myname{Hu, Yangyang}} and Zhu, Mao and Huang, Xiaohui and Du, Bo}, 
+  author={Deng, Ze and Hu, Yangyang and Zhu, Mao and Huang, Xiaohui and Du, Bo}, 
   
   journal={Cluster Computing},
   
